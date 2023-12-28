@@ -1,0 +1,9 @@
+{
+  "decimalPlaces": 8,
+  "addressPrefix": 31232,
+  "ticker": "NLM",
+  "scanCoinbaseTransactions": true,
+  "customUserAgentString": "NolaniumWallet-v1.0.0",
+  "defaultMixin": 0
+}
+
